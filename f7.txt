@@ -1,1 +1,0 @@
-created f7.txt for fetch demo
